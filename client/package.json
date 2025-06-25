@@ -7,7 +7,7 @@
     "dev": "vite",
   "build": "vite build",
   "serve": "vite preview",
-    
+    "start": "npx serve -s dist",
     "lint": "eslint .",
     "preview": "vite preview"
   },
